@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in Kraftshala as a front end developer
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-react-6qb3.vercel.app/](https://my-portfolio-react-6qb3.vercel.app/)
 
