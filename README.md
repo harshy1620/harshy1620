@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-react-6qb3.vercel.app/](https://my-portfolio-react-6qb3.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-react-6qb3.vercel.app/](https://d2oat8oeneh958.cloudfront.net/)
 
 - 📫 How to reach me **harshyadav6642@gmail.com**
 
