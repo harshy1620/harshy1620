@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working in Kraftshala as a front end developer
+- 🔭 I’m currently working in Kraftshala as a Software developer
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-react-6qb3.vercel.app/](https://d2oat8oeneh958.cloudfront.net/)
+- 👨‍💻 All of my projects are available at [](https://www.harshyadav.space/)
 
 - 📫 How to reach me **harshyadav6642@gmail.com**
 
