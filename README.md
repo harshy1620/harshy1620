@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in Kraftshala as a Software developer
 
-- 👨‍💻 All of my projects are available at [](https://www.harshyadav.space/)
+- 👨‍💻 All of my projects are available at [https://www.harshyadav.space/](https://www.harshyadav.space/)
 
 - 📫 How to reach me **harshyadav6642@gmail.com**
 
